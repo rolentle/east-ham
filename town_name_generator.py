@@ -25,10 +25,15 @@ class EnglishTownNameGenerator():
         town_name_syllables = []
         current_syllable_index = 0
         random_town = random.choice(self.corpus)
+
         while len(random_town) > current_syllable_index:
             syllable = random_town[current_syllable_index]
+            if current_syllable_index > 0 and re.search(r"^[A-Z]", syllable):
+                town_name_syllables.append(" ")
+
             town_name_syllables.append(syllable)
-            if re.search("\W+", syllable) and recursive:
+
+            if re.search(r"\W+", syllable) and recursive:
                 town_name_syllables.append(self.generate(recursive=False))
             elif syllable == random_town[-1]:
                 break
