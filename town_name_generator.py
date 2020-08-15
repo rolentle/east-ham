@@ -15,8 +15,8 @@ class Corpus():
         return self.tokenizer.tokenize(name.strip())
 
 class EnglishTownNameGenerator():
-    def __init__(self, corpus=Corpus):
-        self.corpus = Corpus().generate_corpus()
+    def __init__(self, corpus):
+        self.corpus = corpus.generate_corpus()
 
     def generate_times(self, n=10):
         return [self.generate() for _ in range(n)]
