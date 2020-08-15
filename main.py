@@ -1,6 +1,7 @@
 from nltk.tokenize.sonority_sequencing import SyllableTokenizer
 import random
 import re
+from flask import Flask, render_template
 
 class Corpus():
     def __init__(self, tokenizer=SyllableTokenizer):
@@ -39,7 +40,10 @@ class EnglishTownNameGenerator():
         return "".join(town_name_syllables)
 
 
+app = Flask(__name__)
 
-if __name__ == "__main__":
-    for name in EnglishTownNameGenerator().generate_times(100):
-        print(name)
+@app.route('/')
+def names():
+    names = [ name for name in EnglishTownNameGenerator().generate_times(100)]
+    return render_template("names.html", names=names)
+
