@@ -3,8 +3,8 @@ import random
 import re
 
 class Corpus():
-    def __init__(self, tokenizer=SyllableTokenizer):
-        self.file_name = "./town_names.txt"
+    def __init__(self, file_name="./town_names.txt", tokenizer=SyllableTokenizer):
+        self.file_name = file_name
         self.tokenizer = tokenizer()
 
     def generate_corpus(self):
