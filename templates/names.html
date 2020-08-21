@@ -4,10 +4,16 @@
 </head>
 <body>
     <h1>East Ham: English Town Name Generator</h1>
-    <h2>Town Names</h2>
+    <h2>English Town Names</h2>
     <ul>
     {% for name in names %}
     <li>{{ name }}</li>
+    {% endfor %}
+    </ul>
+    <h2>Welsh Town Names</h2>
+    <ul>
+        {% for welsh_name in welsh_names %}
+        <li>{{ welsh_name }}</li>
     {% endfor %}
     </ul>
     <h2>NPC Names</h2>

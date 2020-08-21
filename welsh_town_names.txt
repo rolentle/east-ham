@@ -1,0 +1,171 @@
+Aberaeron
+Aberavon
+Aberbargoed
+Abercarn
+Aberdare
+Aberfan
+Abergavenny
+Abergele
+Abertillery
+Aberystwyth
+Afonwen
+Amlwch
+Ammanford,
+Bagillt
+Bala
+Bangor
+Bargoed
+Barmouth
+Barry
+Beaumaris
+Bethesda
+Blaenau Ffestiniog
+Blaenavon
+Blackwood
+Blaina
+Brecon
+Bridgend
+Briton Ferry
+Brynmawr
+Buckley
+Builth Wells
+Burry Port
+Blaenhonddan
+Caerleon
+Caernarfon
+Caerphilly
+Caerwys
+Caldicot
+Cardiff
+Cardigan
+Carmarthen
+Chepstow
+Chirk
+Colwyn Bay
+Connah's Quay
+Conwy
+Corwen
+Cowbridge
+Criccieth
+Crickhowell
+Crumlin
+Cwmamman
+Cwmbran
+Denbigh
+Dolgellau
+Deiniolen
+Ebbw Vale
+Ewloe
+Ferndale
+Fishguard
+Flint
+Gelligaer
+Glynneath
+Goodwick
+Gorseinon
+Gowerton
+Gresford
+Harlech
+Haverfordwest
+Hay-on-Wye
+Holt
+Holyhead
+Holywell
+Kidwelly
+Kenfig
+Knighton
+Lampeter
+Laugharne
+Llanberis
+Llandeilo
+Llandovery
+Llandrindod Wells
+Llandudno
+Llandudno Junction
+Llandysul
+Llanelli
+Llanfair Caereinion
+Llanfairfechan
+Llan Ffestiniog
+Llanfyllin
+Llangefni
+Llangollen
+Llanidloes
+Llanrwst
+Llansteffan
+Llantrisant
+Llantwit Major
+Llanwrtyd Wells
+Llanybydder
+Loughor
+Llanddulas
+Machynlleth
+Maesteg
+Menai Bridge
+Merthyr Tydfil
+Milford Haven
+Mold
+Monmouth
+Montgomery
+Mountain Ash
+Narberth
+Neath
+Nefyn
+Newbridge
+Newcastle Emlyn
+Newport
+Newport
+New Quay
+Newtown
+Neyland
+Old Colwyn
+Overton-on-Dee
+Pembroke
+Pembrokeshire
+Pembroke Dock
+Penarth
+Pencoed
+Penmaenmawr
+Penrhyn Bay
+Pontardawe
+Pontarddulais
+Pontyclun
+Pontypool
+Pontypridd
+Port Talbot
+Porth
+Porthcawl
+Porthmadog
+Prestatyn
+Presteigne
+Pwllheli
+Pyle
+Queensferry
+Rhayader
+Rhosllanerchrugog
+Rhuddlan
+Rhyl
+Rhymney
+Risca
+Ruthin
+St Asaph
+St Clears
+St David's
+Saltney
+Senghenydd
+Shotton
+Swansea
+Talgarth
+Tenby
+Tonypandy
+Tredegar
+Tregaron
+Treharris
+Tywyn
+Usk
+Welshpool
+Whitland
+Wrexham
+Ystalyfera
+Ystradgynlais
+Ystrad Mynach
