@@ -14,7 +14,7 @@ class Corpus():
     def tokenize(self, name):
         return self.tokenizer.tokenize(name.strip())
 
-class EnglishTownNameGenerator():
+class NameGenerator():
     def __init__(self, corpus):
         self.corpus = corpus.generate_corpus()
 
