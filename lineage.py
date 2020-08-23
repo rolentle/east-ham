@@ -23,7 +23,8 @@ def greet(env, person):
         msg = f"My name is {name}, I am {age} years old"
         print(msg)
         person.age += 1
-        yield env.timeout(1)
+        if  person.age % 2 == 0:
+            yield env.timeout(1)
 
 if __name__ == "__main__":
     person = Person("Rolen", 33, "male")
